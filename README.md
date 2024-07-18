@@ -9,16 +9,12 @@ Materials:
   
 - 2 Red LED Light
   
--LCD Controller (HD47780): Used to display the central message
+- LCD Controller (HD47780): Used to display the central message
 
 
 Installation Guide:
 
-An image of the physical structure and the circuitry diagram is listed in this github. 
+An image of the physical structure and the circuitry diagram is listed in this github. Please reference the two documents to install the product.
      
-The configuration guide of the program are below:
-     
-    (1) Connect GPIO_PIN_9(A) and GPIO_PIN_7(A) and the GPIO_PIN_6(A) to the three red lights. 
-      
-    (2) Connect the PIR Motion Sensor to the GPIO_PIN_6 (B)
+
      
